@@ -10,3 +10,7 @@ const m = lab(2,3);
 
 (long**)m
 ```
+
+- [ ] Aqui el primero
+- [ ] Terminar el excel
+- [ ] Subirlo al portal
